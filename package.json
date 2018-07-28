@@ -1,0 +1,26 @@
+{
+  "name": "vue-text",
+  "version": "1.0.0",
+  "description": "开发购物车",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnTrent/shoppingCart.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "fangchutao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnTrent/shoppingCart/issues"
+  },
+  "homepage": "https://github.com/cnTrent/shoppingCart#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-resource": "^1.5.1"
+  }
+}

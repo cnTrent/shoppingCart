@@ -1,0 +1,190 @@
+{
+  "cartData": {
+    "message": "",
+    "status": "1",
+    "result": {
+      "totalMoney": 0,
+      "productList": [
+        {
+          "productId": "10001",
+          "productName": "黄鹤楼香烟",
+          "productPrice": 19,
+          "productQuentity": 1,
+          "productImage": "https://firebasestorage.googleapis.com/v0/b/shoppcart-116ca.appspot.com/o/goods-1.jpg?alt=media&token=49dcea7f-352f-4df8-b340-7db9633b7421",
+          "parts": [
+            {
+              "partsId": "a001",
+              "partsName": "打火机"
+            },
+            {
+              "partsId": "a002",
+              "partsName": "吸烟嘴"
+            }
+          ]
+        },
+        {
+          "productId": "10002",
+          "productName": "加多宝",
+          "productPrice": 8,
+          "productQuentity": 1,
+          "productImage": "https://firebasestorage.googleapis.com/v0/b/shoppcart-116ca.appspot.com/o/goods-2.jpg?alt=media&token=234749a2-d7c2-43e6-bd08-dff5edf38d53",
+          "parts": [
+            {
+              "partsId": "a001",
+              "partsName": "吸管"
+            }
+          ]
+        },
+        {
+          "productId": "10003",
+          "productName": "耳机",
+          "productPrice": 39,
+          "productQuentity": 1,
+          "productImage": "https://firebasestorage.googleapis.com/v0/b/shoppcart-116ca.appspot.com/o/ear.jpeg?alt=media&token=8b17aab6-db1e-4789-86e8-66f6b18537dc",
+          "parts": []
+        }
+      ]
+    }
+  },
+  "address":{
+    "status":"1",
+    "message":"",
+    "result":[
+      {
+        "addressId":"100001",
+        "userName":"JackBean",
+        "streetName":"北京市朝阳区朝阳公园",
+        "postCode":"100001",
+        "tel":"12345678901",
+        "isDefault":true
+      },
+      {
+        "addressId":"100002",
+        "userName":"JackBean",
+        "streetName":"北京市朝阳区朝阳公园",
+        "postCode":"100001",
+        "tel":"12345678901",
+        "isDefault":false
+      },
+      {
+        "addressId":"100003",
+        "userName":"JackBean",
+        "streetName":"北京市朝阳区朝阳公园",
+        "postCode":"100001",
+        "tel":"12345678901",
+        "isDefault":false
+      },
+      {
+        "addressId":"100004",
+        "userName":"JackBean",
+        "streetName":"北京市朝阳区朝阳公园",
+        "postCode":"100001",
+        "tel":"12345678901",
+        "isDefault":false
+      },
+      {
+        "addressId":"100005",
+        "userName":"JackBean",
+        "streetName":"北京市朝阳区朝阳公园",
+        "postCode":"100001",
+        "tel":"12345678901",
+        "isDefault":false
+      }
+    ]
+  },
+  "account":{
+    "status":"1",
+    "result":[
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      },
+      {
+        "userState":1,
+        "userRole":1,
+        "userNickName":"jack",
+        "userName":"jackbean",
+        "userPartment":"技术部",
+        "email":"a@123.com",
+        "mobile":"10000000000"
+      }
+    ]
+  }
+}
